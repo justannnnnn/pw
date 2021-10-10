@@ -1,5 +1,5 @@
 # Документация к функции <a href='factorial.py'>factorial.py</a>
-
+![photo](https://user-images.githubusercontent.com/92083812/136697901-31b99af6-b762-4b48-a3e6-41a27977679e.png)
 
 <h3>Входные значения:</h3>
 
